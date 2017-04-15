@@ -1,1 +1,3 @@
-# STL-CourseSample Projects developed at the STL Course
+# STL-Course
+
+Sample Projects developed at the STL Course
